@@ -71,4 +71,9 @@ group :test do
   gem "webdrivers"
 end
 
+# deviseのインストール
 gem 'devise'
+
+# ActiveStorageの導入
+gem 'mini_magick'
+gem 'image_processing', '~> 1.2'
